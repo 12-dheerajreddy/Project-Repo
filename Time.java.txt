@@ -1,5 +1,9 @@
 class TimeZone{
+/** added some more contrys for time jone*/
 public int time(){
 return 0;
+}
+main(){
+
 }
 }
