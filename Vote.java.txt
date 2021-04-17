@@ -1,0 +1,10 @@
+class Vote{
+public static  void main(String args[]){
+int a=10;
+if(a>18){
+syso("eligible for vote");
+}
+else
+syso("not eligible for vote");
+}
+}
