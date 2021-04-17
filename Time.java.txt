@@ -1,0 +1,5 @@
+class TimeZone{
+public int time(){
+return 0;
+}
+}
